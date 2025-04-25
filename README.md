@@ -1,14 +1,15 @@
-This is my personal handbook for competitive programming;)
+This is my personal handbook for competitive programming;) 
 
 List of themes:
-1. SegTree
+1. DP
 2. Fenwick
-3. Strings
-4. Trees
-5. Poly
-6. DP
-7. Graphs
-8. Flows
-9. Maths
-10. Modular
-11. others
+3. Flows
+4. Geometry
+5. Graphs
+6. Maths
+7. SegTree
+8. Strings
+9. Trees
+10. ...coming soon maybe
+
+If you have any questions just text me in dm via telegram @Pavarishko 
