@@ -1,4 +1,4 @@
-This is my personal handbook for competitive programming;) 
+This is my personal handbook for competitive programming 😈
 
 List of themes:
 1. DP
