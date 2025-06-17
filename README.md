@@ -11,5 +11,3 @@ List of themes:
 8. Strings
 9. Trees
 10. ...coming soon maybe
-
-If you have any questions just text me in dm via telegram @Pavarishko 
